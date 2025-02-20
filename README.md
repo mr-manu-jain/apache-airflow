@@ -8,3 +8,24 @@ Postgres DataBase
 
 
 DAGs
+
+
+
+api->transformation-> load
+
+
+we will use http operator
+@task using python operator
+connection apir
+
+
+
+
+transforation
+-> pythob code
+
+
+-> json convert
+docker container to the postgres pipeline
+
+
